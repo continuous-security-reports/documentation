@@ -60,6 +60,11 @@ const config = {
                 title: 'Continuous Security Reports',
                 items: [
                     {
+                        to: 'blog',
+                        label: 'Project Blog',
+                        position: 'left',
+                    },
+                    {
                         type: 'doc',
                         docId: 'developers/index',
                         label: 'Developer Documentation',
